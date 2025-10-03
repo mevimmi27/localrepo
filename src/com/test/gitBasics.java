@@ -5,8 +5,8 @@ public class gitBasics {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a= 5;
-		int b= 4;
+		int a= 9;
+		int b= 10;
 		int sum= a+b;
 		System.out.println("The sum of a & b = " + sum);
 		
