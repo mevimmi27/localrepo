@@ -10,7 +10,7 @@ public class gitBasics {
 		int sum= a+b;
 		System.out.println("The sum of a & b = " + sum);
 		
-		System.out.println("Hello I am Git Version 1.0");
+		System.out.println("Hello I am Git Version 1.0. And today is Saturday 5th October");
 
 	}
 
