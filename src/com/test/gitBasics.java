@@ -11,6 +11,7 @@ public class gitBasics {
 		System.out.println("The sum of a & b = " + sum);
 		
 		System.out.println("Hello I am Git Version 2.0");
+		System.out.println("I want to merge this branch to master");
 
 	}
 
